@@ -11,7 +11,7 @@ package com.iutblagnac.r303trace;
     }
 
     public static String hello(){
-        return "Hello World !";
+        return "Hello World!";
     }
 
     public static String hello(String parametre){
