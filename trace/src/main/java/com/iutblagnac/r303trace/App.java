@@ -1,21 +1,22 @@
 package com.iutblagnac.r303trace;
 
-/**
- * Hello world!
- *
+/** Exigence Hello World !
+ * Author : Elliot Aussel
  */
-public class App {
+
+ public class App {
 
     public static void main(String[] args) {
-        System.out.println(hello());
+        hello();
     }
 
-    public static String hello() {
-        return "Hello World!";
+    public static String hello(){
+        return "Hello World !";
     }
 
-    public static String hello(String param) {
-        return param;
+    public static String hello(String parametre){
+        return parametre;
     }
 
-}
+
+ }
